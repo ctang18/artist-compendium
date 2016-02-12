@@ -1,0 +1,41 @@
+{
+  "milo": [
+    {
+      "name": "nom de rap",
+      "year": 2010,
+      "releases": [
+        {"title": "Greatest Hits Vol. 1", "year": 2010, "type": "mixtape"}
+      ]
+    },
+    {
+      "name": "milo",
+      "year": 2010,
+      "releases": [
+        {"title": "I Wish My Brother Rob Was Here", "year": 2011, "type": "mixtape"},
+        {"title": "Milo Takes Baths", "year": 2012, "type": "mixtape"},
+        {"title": "Concerning the Dream Tigers I Have Seen (for Borges)", "year": 2012, "type": "single"},
+        {"title": "This Can't Be the Place (Evil Doer Melody)", "year": 2013, "type": "single"},
+        {"title": "Cavalcade", "year": 2013, "type": "mixtape"},
+        {"title": "Things That Happen at Day", "year": 2013, "type": "ep"},
+        {"title": "Things That Happen at Night", "year": 2013, "type": "ep"},
+        {"title": "A Toothpaste Suburb", "year": 2014, "type": "album"},
+        {"title": "So the Files Don't Come", "year": 2015, "type": "album"}
+      ]
+    },
+    {
+      "name": "scallops hotel",
+      "year": 2013,
+      "releases": [
+        {"title": "Poplar Grove (or How to Rap with a Hammer)", "year": 2013, "type": "mixtape"},
+        {"title": "Plain Speaking", "year": 2015, "type": "mixtape"}
+      ]
+    },
+    {
+      "name": "red wall",
+      "year": 2014,
+      "releases": [
+        {"title": "Boyle and Piles", "year": 2014, "type": "ep"}
+      ]
+    }
+  ]
+}

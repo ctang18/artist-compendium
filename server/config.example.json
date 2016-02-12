@@ -1,0 +1,4 @@
+{
+  "port": 3002,
+  "neo4jURL": "http://neo4j:neo4j@localhost:7474"
+}

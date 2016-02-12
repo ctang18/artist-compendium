@@ -1,0 +1,1 @@
+exports.artists = require('./artists');
